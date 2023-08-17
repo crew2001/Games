@@ -17,8 +17,5 @@ game to run.
 
 * snake-cpp - A simple C++ snake game, with the snake class controlling the snake and the production of the food, and SDL2 library used in main.cpp.
 
-### Work in progress
-
 * pong-py - A fun python AI for the game pong. This uses the neat-python package to implement an interesting AI method inspired by natural selection.
-
 
